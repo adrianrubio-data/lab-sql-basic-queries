@@ -103,3 +103,6 @@ SELECT
 COUNT(*) AS films_with_bts 
 FROM film
 WHERE special_features REGEXP 'Behind the Scenes';
+
+
+-- FINISH
